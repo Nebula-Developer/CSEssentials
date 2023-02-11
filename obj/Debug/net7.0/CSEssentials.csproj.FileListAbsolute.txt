@@ -1,0 +1,10 @@
+/home/nebuladev/Desktop/CSEssentials/bin/Debug/net7.0/CSEssentials.deps.json
+/home/nebuladev/Desktop/CSEssentials/bin/Debug/net7.0/CSEssentials.dll
+/home/nebuladev/Desktop/CSEssentials/bin/Debug/net7.0/CSEssentials.pdb
+/home/nebuladev/Desktop/CSEssentials/obj/Debug/net7.0/CSEssentials.csproj.AssemblyReference.cache
+/home/nebuladev/Desktop/CSEssentials/obj/Debug/net7.0/CSEssentials.GeneratedMSBuildEditorConfig.editorconfig
+/home/nebuladev/Desktop/CSEssentials/obj/Debug/net7.0/CSEssentials.csproj.CoreCompileInputs.cache
+/home/nebuladev/Desktop/CSEssentials/obj/Debug/net7.0/CSEssentials.dll
+/home/nebuladev/Desktop/CSEssentials/obj/Debug/net7.0/refint/CSEssentials.dll
+/home/nebuladev/Desktop/CSEssentials/obj/Debug/net7.0/CSEssentials.pdb
+/home/nebuladev/Desktop/CSEssentials/obj/Debug/net7.0/ref/CSEssentials.dll
