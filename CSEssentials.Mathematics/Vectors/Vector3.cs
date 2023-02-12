@@ -184,6 +184,8 @@ public class Vector3 {
         return Bezier(newPoints, t);
     }
     #endregion
+
+    public override string ToString() => $"({this.x}, {this.y}, {this.z})";
 }
 
 /// <summary>
@@ -368,4 +370,6 @@ public class Vector3i {
         return Bezier(newPoints, t);
     }
     #endregion
+
+    public override string ToString() => $"({this.x}, {this.y}, {this.z})";
 }
