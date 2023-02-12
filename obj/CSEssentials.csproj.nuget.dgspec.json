@@ -5,7 +5,7 @@
   },
   "projects": {
     "/home/nebuladev/Desktop/CSEssentials/CSEssentials.csproj": {
-      "version": "1.0.0",
+      "version": "0.0.1",
       "restore": {
         "projectUniqueName": "/home/nebuladev/Desktop/CSEssentials/CSEssentials.csproj",
         "projectName": "CSEssentials",
@@ -37,6 +37,20 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.7.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
