@@ -4,6 +4,9 @@
     <id>CSEssentials</id>
     <version>0.0.1</version>
     <authors>NebulaDev</authors>
+    <license type="file">LICENSE</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <readme>README.md</readme>
     <description>A large collection of useful C# extensions and helpers</description>
     <tags>math, vectors, graphics, colors, easing, tools, extensions, helpers, .NET</tags>
     <dependencies>
@@ -17,5 +20,7 @@
   <files>
     <file src="/home/nebuladev/Desktop/CSEssentials/bin/Release/net7.0/CSEssentials.runtimeconfig.json" target="lib/net7.0/CSEssentials.runtimeconfig.json" />
     <file src="/home/nebuladev/Desktop/CSEssentials/bin/Release/net7.0/CSEssentials.dll" target="lib/net7.0/CSEssentials.dll" />
+    <file src="/home/nebuladev/Desktop/CSEssentials/README.md" target="README.md" />
+    <file src="/home/nebuladev/Desktop/CSEssentials/LICENSE" target="LICENSE" />
   </files>
 </package>
