@@ -123,13 +123,13 @@ public class RGB {
     /// Converts the RGB color to a 'true-color' foreground escape sequence.
     /// </summary>
     /// <returns>The escape sequence.</returns>
-    public string ToFGEsc() => $"\\x1b[38;2;{R};{G};{B}m";
+    public string ToFGEsc() => $"\x1b[38;2;{R};{G};{B}m";
 
     /// <summary>
     /// Converts the RGB color to a 'true-color' background escape sequence.
     /// </summary>
     /// <returns>The escape sequence.</returns>
-    public string ToBGEsc() => $"\\x1b[48;2;{R};{G};{B}m";
+    public string ToBGEsc() => $"\x1b[48;2;{R};{G};{B}m";
 
     /// <summary>
     /// Linearly interpolates between two RGB colors.
@@ -279,13 +279,13 @@ public class RGBA {
     /// Converts the (casted) RGB color to a 'true-color' foreground escape sequence.
     /// </summary>
     /// <returns>The escape sequence.</returns>
-    public string ToFGEsc() => $"\\x1b[38;2;{R};{G};{B}m";
+    public string ToFGEsc() => $"\x1b[38;2;{R};{G};{B}m";
 
     /// <summary>
     /// Converts the (casted) RGB color to a 'true-color' background escape sequence.
     /// </summary>
     /// <returns>The escape sequence.</returns>
-    public string ToBGEsc() => $"\\x1b[48;2;{R};{G};{B}m";
+    public string ToBGEsc() => $"\x1b[48;2;{R};{G};{B}m";
 
     /// <summary>
     /// Linearly interpolates between two RGBA colors.
