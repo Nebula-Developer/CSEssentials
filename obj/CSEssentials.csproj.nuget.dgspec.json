@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/nebuladev/Desktop/CSEssentials/CSEssentials.csproj": {}
+    "/Users/nicocook/Documents/csessentials/CSEssentials.csproj": {}
   },
   "projects": {
-    "/home/nebuladev/Desktop/CSEssentials/CSEssentials.csproj": {
+    "/Users/nicocook/Documents/csessentials/CSEssentials.csproj": {
       "version": "0.0.1",
       "restore": {
-        "projectUniqueName": "/home/nebuladev/Desktop/CSEssentials/CSEssentials.csproj",
+        "projectUniqueName": "/Users/nicocook/Documents/csessentials/CSEssentials.csproj",
         "projectName": "CSEssentials",
-        "projectPath": "/home/nebuladev/Desktop/CSEssentials/CSEssentials.csproj",
-        "packagesPath": "/home/nebuladev/.nuget/packages/",
-        "outputPath": "/home/nebuladev/Desktop/CSEssentials/obj/",
+        "projectPath": "/Users/nicocook/Documents/csessentials/CSEssentials.csproj",
+        "packagesPath": "/Users/nicocook/.nuget/packages/",
+        "outputPath": "/Users/nicocook/Documents/csessentials/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/nebuladev/.nuget/NuGet/NuGet.Config"
+          "/Users/nicocook/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
         }
       }
     }
